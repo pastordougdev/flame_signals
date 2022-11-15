@@ -1,11 +1,11 @@
 name: flame_signals
-description: Signal system for Flame Games
-version: 0.0.2
+description: A lightweight signal system for Flame Games utilizing streams
+version: 0.0.3
 homepage: https://github.com/pastordougdev/flame_signals
 repository: https://github.com/pastordougdev/flame_signals
 
 environment:
-  sdk: '>=2.18.1 <3.0.0'
+  sdk: '>=2.17.0 <3.0.0'
   flutter: ">=3.3.0"
 
 dependencies:

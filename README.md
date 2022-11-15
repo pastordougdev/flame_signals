@@ -3,7 +3,7 @@
 `flame_signals` offers a simple, type-safe mechanism to provide signals with or without data payloads
 between components in a `FlameGame`.
 
-Follow this link for a simple [example](https://github.com/pastordougdev/flame_signals). This is the example in the github repo.
+Follow this link for a simple [example](https://pastordougdev.github.io/flame_signals). This is the example in the github repo.
 
 ## How To Use
 

@@ -34,7 +34,6 @@ mixin FlameSignalListenable on Component {
   @override
   void onRemove() {
     super.onRemove();
-    print('cleaning up signals $runtimeType');
     for (final sub in _subscriptions) {
       sub.cancel();
     }
